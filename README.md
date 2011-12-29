@@ -5,6 +5,13 @@ platform and components around it.
 
 Comments, ideas and improvements are truly welcome!
 
+## Arduino
+
+"Arduino is an open-source electronics prototyping platform based on flexible, 
+easy-to-use hardware and software. It's intended for artists, designers, 
+hobbyists, and anyone interested in creating interactive objects or environments."
+[Arduino.cc](http://arduino.cc)
+
 ## License
 Copyright (C) 2011 Anton Lindstrom
 
