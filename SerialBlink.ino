@@ -16,7 +16,6 @@ volatile int state = LOW;
  */
 void setup() {
   pinMode(pin, OUTPUT);
-  pinMode(receiver, INPUT);
   Serial.begin(9600);
 }
 
