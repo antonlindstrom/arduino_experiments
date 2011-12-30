@@ -63,3 +63,5 @@ void print_state() {
   Serial.print("State of LED: ");
   Serial.println(state);
 }
+
+/* vim: set ts=2 sw=2 ft=cpp: */

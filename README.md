@@ -9,8 +9,16 @@ Comments, ideas and improvements are truly welcome!
 
 "Arduino is an open-source electronics prototyping platform based on flexible, 
 easy-to-use hardware and software. It's intended for artists, designers, 
-hobbyists, and anyone interested in creating interactive objects or environments."
+hobbyists, and anyone interested in creating interactive objects or environments." - 
 [Arduino.cc](http://arduino.cc)
+
+### Components
+
+The components I use in these tests are:
+* Arduino UNO v3
+* Servo: HiTec HS-422
+* Accelerometer: DE-11 buffered +/-2g
+* Proximity Sensor: IRPD Ver
 
 ## License
 Copyright (C) 2011 Anton Lindstrom
