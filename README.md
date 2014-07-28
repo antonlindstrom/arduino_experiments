@@ -19,6 +19,7 @@ The components I use in these tests are:
 * Servo: HiTec HS-422
 * Accelerometer: DE-11 buffered +/-2g
 * Proximity Sensor: IRPD Ver
+* Servo Serial Controller: Pololu ssc03a
 
 ## License
 Copyright (C) 2011 Anton Lindstrom
